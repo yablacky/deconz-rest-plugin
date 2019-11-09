@@ -2,5 +2,6 @@ Makefile
 Makefile.Debug
 Makefile.Release
 release
+debug
 ui_de_web_widget.h
 .qmake.stash
